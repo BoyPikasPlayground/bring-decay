@@ -1,0 +1,6 @@
+{
+  "item.minecraft.potion.effect.decay_potion": "Trank des Verfalls",
+  "item.minecraft.splash_potion.effect.decay_potion": "Wurftrank des Verfalls",
+  "item.minecraft.lingering_potion.effect.decay_potion": "Verweiltrank des Verfalls",
+  "item.minecraft.tipped_arrow.effect.decay_potion": "Pfeil des Verfalls"
+}
