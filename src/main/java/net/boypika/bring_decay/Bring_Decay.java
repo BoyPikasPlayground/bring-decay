@@ -14,7 +14,7 @@ public class Bring_Decay implements ModInitializer {
     public void onInitialize() {
         ModPotions.registerPotions();
         Trades.registermytrades();
-        Bring_Decay.LOGGER.info("Working");
+        Bring_Decay.LOGGER.info("[1.19.3 - 1.19.4] Bring Decay Init");
 
     }
 }
