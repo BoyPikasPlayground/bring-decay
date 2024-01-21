@@ -21,7 +21,4 @@ public class Trades {
                 });
 
     }
-    public static void registermytrades(){
-        registerTrades();
-    }
 }
